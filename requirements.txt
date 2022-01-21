@@ -1,7 +1,6 @@
 future
 emoji
 lxml
-gogoanime-api==1.0.3
 wget
 gtts
 beautifulsoup4
