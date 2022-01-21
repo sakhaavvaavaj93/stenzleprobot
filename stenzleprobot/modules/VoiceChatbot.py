@@ -1,11 +1,10 @@
-# Voics Chatbot Module Credits Pranav Ajay 🐰Github = Red-Aura 🐹 Telegram= @madepranav
-# @lyciachatbot support Now
+
 import os
 import aiofiles
 import aiohttp
 from random import randint
 from pyrogram import filters
-from MashaRoBot import pbot as LYCIA
+from stenzleprobot import pbot as LYCIA
 
 async def fetch(url):
     async with aiohttp.ClientSession() as session:
