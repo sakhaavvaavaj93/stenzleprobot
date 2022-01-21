@@ -123,8 +123,7 @@ async def job_close():
     for pro in chats:
         try:
             await telethn.send_message(
-              int(pro.chat_id), "
-🌒 START NIGHT MODE 
+              int(pro.chat_id), "🌒 START NIGHT MODE n\
 ❌ From this time up to 6 all users will not be able to send media (photos, videos, files...) and links in the group."
             )
             await telethn(
