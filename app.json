@@ -9,7 +9,7 @@
          "manager",
          "Emcee"
       ],   
-   "repository": "https://github.com/sakhaavvaavaj93/stenzleprobot",
+   "repository": "https://github.com/sakhaavvaavaj93/stenzleprobot.git",
    "addons": [
       {
          "options": {
